@@ -28,6 +28,10 @@ dependencies:
   fab_circular_menu:
   flutter_spinkit:
   scalable_image:
+  camera_camera:
+  image: ^2.1.18
+  path_provider: ^1.6.21
+  path: ^1.7.0
 
 dev_dependencies:
   flutter_test:
