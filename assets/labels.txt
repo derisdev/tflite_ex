@@ -1,0 +1,4 @@
+0 ada pekerjaan 
+1 larangan sepeda
+2 mesjid
+3 rs
